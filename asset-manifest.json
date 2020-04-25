@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Life_Cycle_Methods/static/css/main.e840480f.chunk.css",
+    "main.js": "/Life_Cycle_Methods/static/js/main.070557e5.chunk.js",
+    "main.js.map": "/Life_Cycle_Methods/static/js/main.070557e5.chunk.js.map",
+    "runtime-main.js": "/Life_Cycle_Methods/static/js/runtime-main.d13f8f94.js",
+    "runtime-main.js.map": "/Life_Cycle_Methods/static/js/runtime-main.d13f8f94.js.map",
+    "static/js/2.3ced7e69.chunk.js": "/Life_Cycle_Methods/static/js/2.3ced7e69.chunk.js",
+    "static/js/2.3ced7e69.chunk.js.map": "/Life_Cycle_Methods/static/js/2.3ced7e69.chunk.js.map",
+    "index.html": "/Life_Cycle_Methods/index.html",
+    "precache-manifest.96ec88b94147a9ec7279cbf8008567cd.js": "/Life_Cycle_Methods/precache-manifest.96ec88b94147a9ec7279cbf8008567cd.js",
+    "service-worker.js": "/Life_Cycle_Methods/service-worker.js",
+    "static/css/main.e840480f.chunk.css.map": "/Life_Cycle_Methods/static/css/main.e840480f.chunk.css.map",
+    "static/js/2.3ced7e69.chunk.js.LICENSE.txt": "/Life_Cycle_Methods/static/js/2.3ced7e69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d13f8f94.js",
+    "static/js/2.3ced7e69.chunk.js",
+    "static/css/main.e840480f.chunk.css",
+    "static/js/main.070557e5.chunk.js"
+  ]
+}
